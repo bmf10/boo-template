@@ -6,6 +6,21 @@ Boo Coding Assessment
 
 ### Part 1
 
+API for post Profile: [Profile API](https://github.com/bmf10/boo-template#create-profile)
+
+View for profile: 
+```http
+  GET /profile/${profileId}/view
+```
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `profileId`  | `string` | **Required**. Id of profile to fetch |
+
+Note: Don't forget to add profile first
+
+### Part 2
+
+API requirement for the [UI](https://www.figma.com/file/8Iqw3VwIrHceQxaKgGAOBX/HTML%2FCSS-Coding-Test?node-id=0%3A1): [API Reference](https://github.com/bmf10/boo-template#api-reference)
 
 ## Environment Variables
 
