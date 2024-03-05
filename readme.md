@@ -6,7 +6,7 @@ Boo Coding Assessment
 
 ### Part 1
 
-API for post Profile: [Profile API](https://github.com/bmf10/boo-template#create-profile)
+API for post Profile: [Profile API](https://github.com/bmf10/boo-template?tab=readme-ov-file#profile)
 
 View for profile: 
 ```http
