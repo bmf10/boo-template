@@ -20,7 +20,7 @@ Note: Don't forget to add profile first
 
 ### Part 2
 
-API requirement for the [UI](https://www.figma.com/file/8Iqw3VwIrHceQxaKgGAOBX/HTML%2FCSS-Coding-Test?node-id=0%3A1): [API Reference](https://github.com/bmf10/boo-template#api-reference)
+API requirement for the [UI](https://www.figma.com/file/8Iqw3VwIrHceQxaKgGAOBX/HTML%2FCSS-Coding-Test?node-id=0%3A1): [API Reference](https://github.com/bmf10/boo-template?tab=readme-ov-file#api-reference)
 
 ## Environment Variables
 
